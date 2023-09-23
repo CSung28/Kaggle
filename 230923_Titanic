@@ -44,3 +44,5 @@ print("train: ", train.shape, ", test: ", test.shape)
 
 # check the statistical measurement on train dataset.
 train.describe()
+
+# Next will be checking null values
